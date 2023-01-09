@@ -1,0 +1,20 @@
+{
+  "name": "midtermexam-setb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node exam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evascocherry/MidtermExam-SetB.git"
+  },
+  "author": "Cherry Anne Evasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evascocherry/MidtermExam-SetB/issues"
+  },
+  "homepage": "https://github.com/evascocherry/MidtermExam-SetB#readme"
+}
