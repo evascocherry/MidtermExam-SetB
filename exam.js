@@ -16,4 +16,5 @@ if (data[2]) {
 }
 if(data[2] == 'read'){
     present(read());
+    
 }
